@@ -1,7 +1,9 @@
+#implementing shortest distance using Bellman-Ford shortest paths algorithm
+
 import sys
 import math
 
-R = 6371
+#R = 10000
 
 def print_result(prev, location_list):
     index = len(location_list) - 1
