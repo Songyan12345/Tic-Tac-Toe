@@ -1,3 +1,5 @@
+#program to convert adjacency list to adjacency matrix
+
 import sys
 
 row_count = 0
