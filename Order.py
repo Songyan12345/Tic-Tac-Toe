@@ -1,3 +1,5 @@
+#calculates maximum order in graph using depth-first search
+
 import sys
 import queue
 
