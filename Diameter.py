@@ -1,3 +1,5 @@
+#calculates diameter of graph using breadth-first search
+
 import sys
 import queue
 
